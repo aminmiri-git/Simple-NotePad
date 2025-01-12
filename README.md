@@ -5,4 +5,4 @@ A simple notepad made by visual studio (windows form) , with features like : ope
 
 Feel free to make it better.
 
-the application it seld is in   bin/release/SimpleNotepad.exe
+The application it self is in   SimpleNotepad/bin/release/SimpleNotepad.exe
