@@ -1,0 +1,10 @@
+G:\C.T.U\Notepad-Miri\SimpleNotepad\bin\Release\SimpleNotepad.exe.config
+G:\C.T.U\Notepad-Miri\SimpleNotepad\bin\Release\SimpleNotepad.exe
+G:\C.T.U\Notepad-Miri\SimpleNotepad\bin\Release\SimpleNotepad.pdb
+G:\C.T.U\Notepad-Miri\SimpleNotepad\obj\Release\SimpleNotepad.csproj.AssemblyReference.cache
+G:\C.T.U\Notepad-Miri\SimpleNotepad\obj\Release\SimpleNotepad.Form1.resources
+G:\C.T.U\Notepad-Miri\SimpleNotepad\obj\Release\SimpleNotepad.Properties.Resources.resources
+G:\C.T.U\Notepad-Miri\SimpleNotepad\obj\Release\SimpleNotepad.csproj.GenerateResource.cache
+G:\C.T.U\Notepad-Miri\SimpleNotepad\obj\Release\SimpleNotepad.csproj.CoreCompileInputs.cache
+G:\C.T.U\Notepad-Miri\SimpleNotepad\obj\Release\SimpleNotepad.exe
+G:\C.T.U\Notepad-Miri\SimpleNotepad\obj\Release\SimpleNotepad.pdb
